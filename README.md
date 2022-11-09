@@ -35,7 +35,7 @@ Tips:
 
 |  grupo | integrantes |url del fork|
 |--------|-----------------------------|---------------------------------------------------|
-|  0101  | Victor Toro - Daniel Jofre - Oscar Hidalgo - Carlos Vasquez - Diego Torres | https://github.com/vtorolobos/Devops-2022-tarea-3 |
+|  0101  | Victor Toro - Daniel Jofre - Oscar Hidalgo - Carlos Vasquez - Diego Torres | https://github.com/vtorolobos/Devops-2022-tarea-3  
 
 
 
