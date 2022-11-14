@@ -10,7 +10,7 @@ chrome_options.add_argument('--disable-dev-shm-usage')
 
 driver = webdriver.Chrome(options=chrome_options)
 driver.get(
-  "http://ip172-18-0-24-cdp9stv91rrg00a4erkg-8080.direct.labs.play-with-docker.com/"
+  "http://localhost:8080/"
 )
 
 ## Encontrar Elementos
