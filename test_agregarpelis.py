@@ -10,7 +10,7 @@ chrome_options.add_argument('--disable-dev-shm-usage')
 
 driver = webdriver.Chrome(options=chrome_options)
 driver.get(
-  "http://localhost:8080"
+  "http://ip172-18-0-24-cdp9stv91rrg00a4erkg-8080.direct.labs.play-with-docker.com/"
 )
 
 ## Encontrar Elementos
@@ -80,10 +80,6 @@ driver.find_element(By.CSS_SELECTOR, ".btn").click()
 print('esperaremos 2 segundos')
 time.sleep(3)
 
-driver.get(
-  "http://localhost:8080"
-)
-
 print('esperaremos 2 segundos')
 time.sleep(2)
 
@@ -95,19 +91,13 @@ print('esperaremos 2 segundos')
 time.sleep(2)
 element = driver.find_element(By.NAME, "review")
 actions = ActionChains(driver)
+driver.find_element(By.NAME, "review").clear()
 driver.find_element(
   By.NAME,
   "review").send_keys("Gran Adaptacion de una novela de ciencia ficcion")
 print('esperaremos 2 segundos')
 time.sleep(2)
 driver.find_element(By.CSS_SELECTOR, ".btn").click()
-
-print('esperaremos 2 segundos')
-time.sleep(3)
-
-driver.get(
-  "http://localhost:8080"
-)
 
 print('esperaremos 2 segundos')
 time.sleep(3)
@@ -120,6 +110,7 @@ print('esperaremos 2 segundos')
 time.sleep(2)
 element = driver.find_element(By.NAME, "review")
 actions = ActionChains(driver)
+driver.find_element(By.NAME, "review").clear()
 driver.find_element(
   By.NAME, "review").send_keys("Buena película biográfica estilizada del Rey")
 print('esperaremos 2 segundos')
