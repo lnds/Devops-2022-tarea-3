@@ -54,7 +54,3 @@ for n in nums:
     driver.find_element(By.CSS_SELECTOR, ".btn").click()
 
 driver.quit()
-
-
-
-
