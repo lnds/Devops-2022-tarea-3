@@ -35,7 +35,9 @@ Tips:
 
 |grupo|integrantes|url del fork|
 |-----|-----------|------------|
-|     |           |            |
+| MCC |Claudio Mallea   |https://github.com/NicoFuentesAP/Devops-2022-tarea-3|
+| MCC |Cristian Contardo|https://github.com/NicoFuentesAP/Devops-2022-tarea-3|
+| MCC |Manuel Fuentes   |https://github.com/NicoFuentesAP/Devops-2022-tarea-3|
 
 
 
