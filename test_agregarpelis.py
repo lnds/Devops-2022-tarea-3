@@ -10,7 +10,7 @@ chrome_options.add_argument('--disable-dev-shm-usage')
 
 driver = webdriver.Chrome(options=chrome_options)
 driver.get(
-  "http://ip172-18-0-94-cdp5ajn91rrg00a4efdg-8080.direct.labs.play-with-docker.com/"
+  "http://localhost:8080"
 )
 
 ## Encontrar Elementos
@@ -81,7 +81,7 @@ print('esperaremos 2 segundos')
 time.sleep(3)
 
 driver.get(
-  "http://ip172-18-0-94-cdp5ajn91rrg00a4efdg-8080.direct.labs.play-with-docker.com/"
+  "http://localhost:8080"
 )
 
 print('esperaremos 2 segundos')
@@ -106,7 +106,7 @@ print('esperaremos 2 segundos')
 time.sleep(3)
 
 driver.get(
-  "http://ip172-18-0-94-cdp5ajn91rrg00a4efdg-8080.direct.labs.play-with-docker.com/"
+  "http://localhost:8080"
 )
 
 print('esperaremos 2 segundos')
