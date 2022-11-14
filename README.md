@@ -35,10 +35,4 @@ Tips:
 
 |grupo|integrantes|url del fork|
 |-----|-----------|------------|
-|N/A|Cristian Donoso Uribe, Patricio Persen Arrepol, Cristian Bustamante Ulloa | https://github.com/betonoma/Devops-2022-tarea-3|
-
-
-
-
-
-
+|N/A|Cristian Donoso Uribe, Patricio Persen Arrepol, Cristian Bustamante Ulloa, Rodolfo Collio Alvarez | https://github.com/betonoma/Devops-2022-tarea-3|
