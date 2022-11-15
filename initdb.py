@@ -2,6 +2,7 @@ import os
 import psycopg2
 
 conn_string = os.environ['CONNECTION_STRING']
+
 conn = psycopg2.connect(conn_string)
 
 # Open a cursor to perform database operations

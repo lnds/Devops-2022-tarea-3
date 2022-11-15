@@ -35,7 +35,7 @@ Tips:
 
 |grupo|integrantes|url del fork|
 |-----|-----------|------------|
-|     |           |            |
+|     | Patricio Alvarez          | https://github.com/palvarezp/Devops-2022-tarea-3           |
 
 
 
