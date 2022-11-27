@@ -33,9 +33,9 @@ Tips:
 
 # Entrega
 
-|grupo|integrantes|url del fork|
-|-----|-----------|------------|
-|     |           |            |
+|grupo           |integrantes     |url del fork                                     |
+|----------------|----------------|-------------------------------------------------|
+| Rodolfo Collio | Rodolfo Collio | https://github.com/collio95/Devops-2022-tarea-3 |
 
 
 
